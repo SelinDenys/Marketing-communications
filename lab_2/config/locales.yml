@@ -1,0 +1,8 @@
+en:
+  greeting_message: "Hi! Let's start!"
+  farewell_message: "Bye! See you soon "
+  error_message: "Wrong command! Refer to the user manual for help"
+ua:
+  greeting_message: "Привіт! Почнемо роботу!"
+  farewell_message: "Прощавай! До зустрічі"
+  error_message: "Неправильна команда! Зверніться до посібника користувача для допомоги"

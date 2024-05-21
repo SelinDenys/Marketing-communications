@@ -1,0 +1,7 @@
+adapter: postgresql
+database: telegrambot_quiz_test
+encoding: unicode
+pool: 5
+timeout: 5000
+username: postgres
+password: ''
